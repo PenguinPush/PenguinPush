@@ -1,5 +1,5 @@
 ## Hi there 👋
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ae,arduino,blender,cs,codepen,css,discord,bots,flask,git,github,gmail,html,idea,ai,instagram,java,js,linkedin,nodejs,notion,npm,opencv,ps,powershell,pr,pycharm,py,pytorch,raspberrypi,react,replit,robloxstudio,stackoverflow,threejs,twitter,unity,vercel,visualstudio,vite,vscode,webstorm,windows)](https://skillicons.dev)
 <!--
 **PenguinPush/PenguinPush** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
