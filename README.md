@@ -7,7 +7,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=pycharm,idea,visualstudio,vscode,webstorm,unity,robloxstudio,replit,codepen" />
+    <img src="https://skillicons.dev/icons?i=pycharm,idea,visualstudio,vscode,webstorm,unity,replit,codepen,robloxstudio" />
   </a>
 </p>
 
@@ -23,4 +23,4 @@
   </a>
 </p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=penguinpush&show_icons=true&locale=en" alt="PenguinPush"/></p>
+<p align="left"><img src="https://github-readme-stats.vercel.app/api?username=penguinpush&show_icons=true&locale=en" alt="PenguinPush"/></p>
