@@ -23,4 +23,4 @@
   </a>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=penguinpush&show_icons=true&locale=en" alt="PenguinPush" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=penguinpush&show_icons=true&locale=en" alt="PenguinPush"/></p>
