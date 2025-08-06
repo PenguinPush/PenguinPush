@@ -5,4 +5,4 @@
 - 6 yrs w/ object-oriented-programming, C#, & Unity
   
 ### 💻 [Learn more about me at my website !](https://andrewd.ai/)
-[(📄 also have a look at my resume)](https://penguinpush.github.io/Andrew_Dai_Resume.pdf)
+[(📄 also have a look at my resume)](https://andrewd.ai/Andrew_Dai_Resume.pdf)
