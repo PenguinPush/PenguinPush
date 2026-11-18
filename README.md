@@ -5,4 +5,4 @@
 - 4 yrs of experience w/ Python and ML/AI libraries
 - 7 yrs w/ object-oriented-programming, C#, & Unity
   
-### 💻 [learn more about me at my website](https://andrewd.ai/)
+### [learn more about me at my website](https://andrewd.ai/)
