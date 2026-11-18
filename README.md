@@ -13,8 +13,8 @@
 
 <div align="center">
 
-[![Website](https://img.shields.io/badge/website-andrewd.ai-5391FE?style=for-the-badge&logo=googlechrome&logoColor=white)](https://andrewd.ai/)
-[![GitHub](https://img.shields.io/github/followers/PenguinPush?label=Follow&style=for-the-badge&logo=github)](https://github.com/PenguinPush)
+[![Website](https://img.shields.io/badge/andrewd.ai-5391FE?style=flat-square&logo=googlechrome&logoColor=white)](https://andrewd.ai/)
+[![GitHub](https://img.shields.io/github/followers/PenguinPush?label=follow&style=flat-square&logo=github)](https://github.com/PenguinPush)
 
 </div>
 
