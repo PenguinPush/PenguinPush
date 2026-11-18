@@ -1,5 +1,4 @@
 **17-year-old programmer from Toronto with interests in 📷 photography, 🏙️ urban planning, and 🌎 politics.**
-## stats breakdown:
 - 10x (consecutive) hackathon wins out of 18 attended
 - organizing [Canada's largest high-school hackathon](https://jamhacks.ca) @ UWaterloo
 - AIME '25 qualifier, top 0.8% CEMC Cayley, COMC 54/80
