@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hey, I'm Andrew Dai 👋
+# Andrew Dai
 
-### Builder, hackathon enjoyer, and occasional photographer from Toronto 🇨🇦
+### 17y/o programmer from Toronto with interests in photography, urban planning, and politics
 
 [![Website](https://img.shields.io/badge/website-andrewd.ai-5391FE?style=for-the-badge&logo=googlechrome&logoColor=white)](https://andrewd.ai/)
 [![GitHub](https://img.shields.io/github/followers/PenguinPush?label=Follow&style=for-the-badge&logo=github)](https://github.com/PenguinPush)
@@ -17,12 +17,11 @@
 <br>
 
 ## About me
-
-- 🎖️ 10 hackathons won consecutively
-- 🏫 Organized [Canada's largest high-school hackathon](https://jamhacks.ca) at UWaterloo
-- 📷 Interested in photography, urban planning, and politics
-- 🧠 I like building practical tools with AI, computer vision, and delightful interfaces
-- 🌐 Learn more about me at [andrewd.ai](https://andrewd.ai/)
+- 10 hackathons won consecutively
+- Organized [Canada's largest high-school hackathon](https://jamhacks.ca) at UWaterloo
+- 4 years of Python and Full-Stack experience, 8 years of Java and C# experience
+- SAT 1560 and AIME '25 qualifier
+- Learn more about me at [andrewd.ai](https://andrewd.ai/)
 
 ## Featured projects
 
@@ -31,7 +30,6 @@
 | [**Cullergrader**](https://github.com/PenguinPush/cullergrader) | Groups photos by perceptual similarity and timestamps so photographers can quickly keep their best shots. |
 | [**Pickle**](https://github.com/PenguinPush/pickle) | Communicates vital information during emergencies without internet access by leveraging SMS networks. |
 | [**FaunaDex**](https://github.com/PenguinPush/FaunaDex) | Performs semantic species retrieval from animal photos using visual descriptions and vector search. |
-| [**calLMAOut**](https://github.com/PenguinPush/calLMAOut) | A Chrome extension that reveals when you are clearly not laughing. |
 | [**Goodminton**](https://github.com/PenguinPush/goodminton) | A badminton project built for fun, competition, and good vibes. |
 
 ## Tools I use
