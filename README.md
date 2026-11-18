@@ -16,7 +16,6 @@
 [![Website](https://img.shields.io/badge/andrewd.ai-5391FE?style=flat-square&logo=googlechrome&logoColor=white)](https://andrewd.ai/)
 [![GitHub](https://img.shields.io/github/followers/PenguinPush?label=follow&style=flat-square&logo=github)](https://github.com/PenguinPush)
 </div>
-<br>
 
 ## About Me
 - 10 hackathons won consecutively
@@ -24,4 +23,3 @@
 - 4 years of Python and Full-Stack experience, 8 years of Java and C# experience
 - SAT 1560 and AIME '25 qualifier
 - Learn more about me at [andrewd.ai](https://andrewd.ai/)
-<br>
