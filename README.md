@@ -4,5 +4,4 @@
 - SAT 1560, AIME '25 qualifier, COMC 54/80
 - 4 yrs of experience w/ Python and ML/AI libraries
 - 7 yrs w/ object-oriented-programming, C#, & Unity
-  
 ### [learn more about me at my website](https://andrewd.ai/)
