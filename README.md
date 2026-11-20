@@ -2,7 +2,7 @@
 
 # Andrew Dai
 
-### 17-year-old programmer from Toronto with interests in photography, urban planning, and politics; enjoys competing in hackathons and owning projects start-to-finish
+### 17-year-old programmer from Toronto with interests in photography, urban planning, and politics; enjoys competing at hackathons and shipping ideas others don't think of, owning projects from start to finish
 
 </div>
 
